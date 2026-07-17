@@ -1,20 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f744fd5f-cfd6-40c0-bcec-1a3f806c75e3" name="Changes" comment="" />
+    <list default="true" id="f744fd5f-cfd6-40c0-bcec-1a3f806c75e3" name="Changes" comment="create machine learning">
+      <change afterPath="$PROJECT_DIR$/Datasets/Boston.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Datasets/Concrete_Data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Datasets/Housing.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Datasets/Insure_auto.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Datasets/testConcrete.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_02_machine_learning/01_linear_regression.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_02_machine_learning/02_multi_linear_regression.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_02_machine_learning/03_Boston_house_regression.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning_day_01/Hello.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning_day_01/question_01.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8,
-  "fromUser": false
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;AungSannOoDe&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/AungSannOoDe/machine_learning&quot;,
+    &quot;accountId&quot;: &quot;d4bddb3a-d0c9-4be2-8993-54b198896412&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3GZF6QZCewhRfQKOsn22JTqdyFU" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -22,13 +58,23 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Hello.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "master",
-    "nodejs_package_manager_path": "npm"
+    "last_opened_file_path": "C:/Users/UserE/Desktop/machine_learning",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "jupyter.general.settings"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\UserE\Desktop\machine_learning" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -44,9 +90,33 @@
       <option name="presentableId" value="Default" />
       <updated>1784171008903</updated>
     </task>
+    <task id="LOCAL-00001" summary="create machine learning">
+      <option name="closed" value="true" />
+      <created>1784171213808</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1784171213808</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="create machine learning" />
+    <option name="LAST_COMMIT_MESSAGE" value="create machine learning" />
   </component>
 </project>
