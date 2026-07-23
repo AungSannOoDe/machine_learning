@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f744fd5f-cfd6-40c0-bcec-1a3f806c75e3" name="Changes" comment="Day 2 machine learning">
-      <change afterPath="$PROJECT_DIR$/Datasets/Kyphosis.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Datasets/tst_Housing.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_02_machine_learning/test.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_03/Preprocessing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_04_machine_learning/02_gradient_descent.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_05/01_gradient_descent.ipynb" afterDir="false" />
+    <list default="true" id="f744fd5f-cfd6-40c0-bcec-1a3f806c75e3" name="Changes" comment="Day 5 machine learning">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_04_machine_learning/02_gradient_descent.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/day_04_machine_learning/02_gradient_descent.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +99,15 @@
       <option name="project" value="LOCAL" />
       <updated>1784280375742</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Day 5 machine learning">
+      <option name="closed" value="true" />
+      <created>1784798794811</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1784798794812</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,6 +127,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="create machine learning" />
     <MESSAGE value="Day 2 machine learning" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 2 machine learning" />
+    <MESSAGE value="Day 5 machine learning" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 5 machine learning" />
   </component>
 </project>
