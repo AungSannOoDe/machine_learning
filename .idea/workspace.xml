@@ -1,18 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f744fd5f-cfd6-40c0-bcec-1a3f806c75e3" name="Changes" comment="create machine learning">
-      <change afterPath="$PROJECT_DIR$/Datasets/Boston.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Datasets/Concrete_Data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Datasets/Housing.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Datasets/Insure_auto.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Datasets/testConcrete.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_02_machine_learning/01_linear_regression.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_02_machine_learning/02_multi_linear_regression.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_02_machine_learning/03_Boston_house_regression.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/machine_learning_day_01/Hello.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/machine_learning_day_01/question_01.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="f744fd5f-cfd6-40c0-bcec-1a3f806c75e3" name="Changes" comment="Day 2 machine learning">
+      <change afterPath="$PROJECT_DIR$/Datasets/Kyphosis.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Datasets/tst_Housing.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_02_machine_learning/test.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_03/Preprocessing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_04_machine_learning/02_gradient_descent.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_05/01_gradient_descent.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,19 +54,22 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.Hello.executor": "Run",
+    "Python.Preprocessing.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/UserE/Desktop/machine_learning",
+    "last_opened_file_path": "C:/Users/UserE/Desktop/machine_learning/Datasets",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "jupyter.general.settings"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\UserE\Desktop\machine_learning\Datasets" />
+      <recent name="C:\Users\UserE\Desktop\machine_learning\day_02_machine_learning" />
       <recent name="C:\Users\UserE\Desktop\machine_learning" />
     </key>
   </component>
@@ -98,7 +96,15 @@
       <option name="project" value="LOCAL" />
       <updated>1784171213808</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Day 2 machine learning">
+      <option name="closed" value="true" />
+      <created>1784280375742</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1784280375742</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,6 +123,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="create machine learning" />
-    <option name="LAST_COMMIT_MESSAGE" value="create machine learning" />
+    <MESSAGE value="Day 2 machine learning" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 2 machine learning" />
   </component>
 </project>
