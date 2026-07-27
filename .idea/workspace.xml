@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f744fd5f-cfd6-40c0-bcec-1a3f806c75e3" name="Changes" comment="Day 6 machine learning  stochastic gradient descent">
-      <change afterPath="$PROJECT_DIR$/day_06/02_svm.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_06/03_svm.ipynb" afterDir="false" />
+    <list default="true" id="f744fd5f-cfd6-40c0-bcec-1a3f806c75e3" name="Changes" comment="Day 6 machine learning  SVM learning">
+      <change afterPath="$PROJECT_DIR$/Datasets/Cancer.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Datasets/Sonar.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Datasets/iris.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_06/04_svm.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_08_machine_learning/01_navie_bayes.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_08_machine_learning/destriptive_analysis.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_04_machine_learning/02_gradient_descent.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/day_04_machine_learning/02_gradient_descent.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +38,9 @@
     &quot;accountId&quot;: &quot;d4bddb3a-d0c9-4be2-8993-54b198896412&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8,
   &quot;fromUser&quot;: false
@@ -60,7 +66,8 @@
     "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/UserE/Desktop/machine_learning/Datasets",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.keymap"
+    "run.code.analysis.last.selected.profile": "aDefault",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -128,7 +135,15 @@
       <option name="project" value="LOCAL" />
       <updated>1784865742117</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Day 6 machine learning  SVM learning">
+      <option name="closed" value="true" />
+      <created>1784884478608</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1784884478608</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,6 +166,7 @@
     <MESSAGE value="Day 5 machine learning" />
     <MESSAGE value="Day 5 machine learning testing" />
     <MESSAGE value="Day 6 machine learning  stochastic gradient descent" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 6 machine learning  stochastic gradient descent" />
+    <MESSAGE value="Day 6 machine learning  SVM learning" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 6 machine learning  SVM learning" />
   </component>
 </project>
