@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f744fd5f-cfd6-40c0-bcec-1a3f806c75e3" name="Changes" comment="Day 6 machine learning  SVM learning">
-      <change afterPath="$PROJECT_DIR$/Datasets/Cancer.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Datasets/Sonar.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Datasets/iris.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_06/04_svm.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_08_machine_learning/01_navie_bayes.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_08_machine_learning/destriptive_analysis.ipynb" afterDir="false" />
+    <list default="true" id="f744fd5f-cfd6-40c0-bcec-1a3f806c75e3" name="Changes" comment="Day 7 machine learning  SVM and descritnment learning">
+      <change afterPath="$PROJECT_DIR$/day_09_machine_learning/01_classification_tree.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_09_machine_learning/02_Decision_tree_Regressor.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,23 +49,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.Hello.executor": "Run",
-    "Python.Preprocessing.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/UserE/Desktop/machine_learning/Datasets",
-    "nodejs_package_manager_path": "npm",
-    "run.code.analysis.last.selected.profile": "aDefault",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.Hello.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Preprocessing.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/UserE/Desktop/machine_learning/Datasets&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\UserE\Desktop\machine_learning\Datasets" />
@@ -143,7 +139,15 @@
       <option name="project" value="LOCAL" />
       <updated>1784884478608</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Day 7 machine learning  SVM and descritnment learning">
+      <option name="closed" value="true" />
+      <created>1785143655910</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1785143655910</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,6 +171,7 @@
     <MESSAGE value="Day 5 machine learning testing" />
     <MESSAGE value="Day 6 machine learning  stochastic gradient descent" />
     <MESSAGE value="Day 6 machine learning  SVM learning" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 6 machine learning  SVM learning" />
+    <MESSAGE value="Day 7 machine learning  SVM and descritnment learning" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 7 machine learning  SVM and descritnment learning" />
   </component>
 </project>
