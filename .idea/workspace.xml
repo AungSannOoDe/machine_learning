@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f744fd5f-cfd6-40c0-bcec-1a3f806c75e3" name="Changes" comment="Day 7 machine learning  SVM and descritnment learning">
-      <change afterPath="$PROJECT_DIR$/day_09_machine_learning/01_classification_tree.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_09_machine_learning/02_Decision_tree_Regressor.ipynb" afterDir="false" />
+    <list default="true" id="f744fd5f-cfd6-40c0-bcec-1a3f806c75e3" name="Changes" comment="Day 8 machine learning  Decision tree upd">
+      <change afterPath="$PROJECT_DIR$/day_10_machine_learning/Bagging_02.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_10_machine_learning/esemble_01.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_09_machine_learning/02_Decision_tree_Regressor.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/day_09_machine_learning/02_Decision_tree_Regressor.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,7 +148,15 @@
       <option name="project" value="LOCAL" />
       <updated>1785143655910</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Day 8 machine learning  Decision tree">
+      <option name="closed" value="true" />
+      <created>1785225791440</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1785225791440</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,6 +181,18 @@
     <MESSAGE value="Day 6 machine learning  stochastic gradient descent" />
     <MESSAGE value="Day 6 machine learning  SVM learning" />
     <MESSAGE value="Day 7 machine learning  SVM and descritnment learning" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 7 machine learning  SVM and descritnment learning" />
+    <MESSAGE value="Day 8 machine learning  Decision tree" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 8 machine learning  Decision tree" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>file://$PROJECT_DIR$/day_08_machine_learning/01_navie_bayes.ipynb</url>
+          <line>3</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
