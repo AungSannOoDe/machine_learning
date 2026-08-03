@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f744fd5f-cfd6-40c0-bcec-1a3f806c75e3" name="Changes" comment="Day 8 machine learning  Decision tree upd">
-      <change afterPath="$PROJECT_DIR$/day_10_machine_learning/Bagging_02.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_10_machine_learning/esemble_01.ipynb" afterDir="false" />
+    <list default="true" id="f744fd5f-cfd6-40c0-bcec-1a3f806c75e3" name="Changes" comment="Day 10 machine learning  Bagging and esenable">
+      <change afterPath="$PROJECT_DIR$/Datasets/milk.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Datasets/nutrient.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_11_machine_learning/AdaBoost.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_11_machine_learning/Clustering_01.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_11_machine_learning/Gradient_Boosting_01.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_11_machine_learning/K_means.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_11_machine_learning/RandomForest_01.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_11_machine_learning/RandomForest_02.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_11_machine_learning/Stacking_01.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_09_machine_learning/02_Decision_tree_Regressor.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/day_09_machine_learning/02_Decision_tree_Regressor.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_10_machine_learning/Bagging_02.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/day_10_machine_learning/Bagging_02.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -156,7 +163,15 @@
       <option name="project" value="LOCAL" />
       <updated>1785225791440</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Day 10 machine learning  Bagging and esenable">
+      <option name="closed" value="true" />
+      <created>1785403695112</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1785403695112</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -182,7 +197,8 @@
     <MESSAGE value="Day 6 machine learning  SVM learning" />
     <MESSAGE value="Day 7 machine learning  SVM and descritnment learning" />
     <MESSAGE value="Day 8 machine learning  Decision tree" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 8 machine learning  Decision tree" />
+    <MESSAGE value="Day 10 machine learning  Bagging and esenable" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 10 machine learning  Bagging and esenable" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
