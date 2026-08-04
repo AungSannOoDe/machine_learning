@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f744fd5f-cfd6-40c0-bcec-1a3f806c75e3" name="Changes" comment="Day 11 machine learning  Bagging and esenable">
-      <change afterPath="$PROJECT_DIR$/day_12_machine_learning/PCA_01.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_12_machine_learning/PCA_02.ipynb" afterDir="false" />
+    <list default="true" id="f744fd5f-cfd6-40c0-bcec-1a3f806c75e3" name="Changes" comment="Day 12 machine learning  Bagging and esenable">
+      <change afterPath="$PROJECT_DIR$/day_12_machine_learning/tsne_01.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_11_machine_learning/K_means.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/day_11_machine_learning/K_means.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_12_machine_learning/PCA_02.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/day_12_machine_learning/PCA_02.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -172,7 +171,15 @@
       <option name="project" value="LOCAL" />
       <updated>1785749506618</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Day 12 machine learning  Bagging and esenable">
+      <option name="closed" value="true" />
+      <created>1785823384551</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1785823384551</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -200,7 +207,8 @@
     <MESSAGE value="Day 8 machine learning  Decision tree" />
     <MESSAGE value="Day 10 machine learning  Bagging and esenable" />
     <MESSAGE value="Day 11 machine learning  Bagging and esenable" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 11 machine learning  Bagging and esenable" />
+    <MESSAGE value="Day 12 machine learning  Bagging and esenable" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 12 machine learning  Bagging and esenable" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
