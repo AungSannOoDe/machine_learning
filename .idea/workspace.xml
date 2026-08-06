@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f744fd5f-cfd6-40c0-bcec-1a3f806c75e3" name="Changes" comment="Day 13 machine learning">
-      <change afterPath="$PROJECT_DIR$/Datasets/monthly-milk-production-pounds-p.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_12_machine_learning/K_AFold_mean.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_12_machine_learning/K_Fold.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_12_machine_learning/kfolds_3.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/times_seriex/smoothing.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/times_seriex/time_series_01.ipynb" afterDir="false" />
+    <list default="true" id="f744fd5f-cfd6-40c0-bcec-1a3f806c75e3" name="Changes" comment="Day 14 machine learning">
+      <change afterPath="$PROJECT_DIR$/Datasets/ChemicalProcess.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Datasets/FRED-NROUST.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/times_seriex/Hot_linear.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/times_seriex/ts_4.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/times_seriex/smoothing.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/times_seriex/arima_sarima.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/times_seriex/time_series_01.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/times_seriex/time_series_01.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +67,9 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/UserE/Desktop/machine_learning/Datasets",
+    "last_opened_file_path": "C:/Users/UserE/Desktop/machine_learning/times_seriex",
+    "node.js.detected.package.jshint": "true",
+    "node.js.selected.package.jshint": "",
     "nodejs_package_manager_path": "npm",
     "run.code.analysis.last.selected.profile": "aDefault",
     "settings.editor.selected.configurable": "preferences.pluginManager"
@@ -72,6 +77,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\UserE\Desktop\machine_learning\times_seriex" />
       <recent name="C:\Users\UserE\Desktop\machine_learning\Datasets" />
       <recent name="C:\Users\UserE\Desktop\machine_learning\day_12_machine_learning" />
       <recent name="C:\Users\UserE\Desktop\machine_learning\day_02_machine_learning" />
@@ -86,7 +92,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-50341a9f1f9c-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.26222.68" />
+        <option value="bundled-python-sdk-6fa658e1df1a-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.8665.369" />
       </set>
     </attachedChunks>
   </component>
@@ -194,7 +200,15 @@
       <option name="project" value="LOCAL" />
       <updated>1785834799775</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Day 14 machine learning">
+      <option name="closed" value="true" />
+      <created>1785921956657</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1785921956658</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -224,7 +238,8 @@
     <MESSAGE value="Day 11 machine learning  Bagging and esenable" />
     <MESSAGE value="Day 12 machine learning  Bagging and esenable" />
     <MESSAGE value="Day 13 machine learning" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 13 machine learning" />
+    <MESSAGE value="Day 14 machine learning" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 14 machine learning" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
